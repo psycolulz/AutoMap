@@ -1,3 +1,10 @@
+IMPORTANT NOTES
+=========================
+I Do NOT Own Any Rights To NMAP.
+Rights For NMAP Are Given Respectfully In The Tool.
+!!!!!!!!TOOL MUST BE RUN AS ROOT!!!!!!
+
+
 What Is AutoMap?
 =========================
 AutoMap is an NMAP Cheat Sheet that teaches users the proper NMAP commands for specific tasks.
